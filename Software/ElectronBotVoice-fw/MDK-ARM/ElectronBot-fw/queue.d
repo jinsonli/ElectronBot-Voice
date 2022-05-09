@@ -1,0 +1,15 @@
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+electronbot-fw\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+electronbot-fw\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+electronbot-fw\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+electronbot-fw\queue.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+electronbot-fw\queue.o: ../Core/Inc/FreeRTOSConfig.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+electronbot-fw\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
