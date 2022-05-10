@@ -796,11 +796,6 @@
               <FileType>8</FileType>
               <FilePath>..\UserApp\user_task.cpp</FilePath>
             </File>
-            <File>
-              <FileName>ostools.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\UserApp\ostools.cpp</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
@@ -841,90 +836,10 @@
               <FileType>5</FileType>
               <FilePath>..\Bsp\servo.h</FilePath>
             </File>
-            <File>
-              <FileName>husb.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\Bsp\husb.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>husb.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\Bsp\husb.h</FilePath>
-            </File>
-            <File>
-              <FileName>imu.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\Bsp\imu.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>imu.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\Bsp\imu.h</FilePath>
-            </File>
           </Files>
         </Group>
         <Group>
           <GroupName>UnitTest</GroupName>
-        </Group>
-        <Group>
-          <GroupName>UserProtocol</GroupName>
-          <Files>
-            <File>
-              <FileName>type_usb_msg.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\UserApp\protocol_usb\type_usb_msg.h</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_image.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_image.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_image.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_image.h</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_robot_sys.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_robot_sys.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_robot_sys.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_robot_sys.h</FilePath>
-            </File>
-            <File>
-              <FileName>usb_msg_protocol.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\UserApp\protocol_usb\usb_msg_protocol.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>usb_msg_protocol.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\UserApp\protocol_usb\usb_msg_protocol.h</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_audio.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_audio.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_audio.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_audio.h</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_joint.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_joint.cpp</FilePath>
-            </File>
-            <File>
-              <FileName>umsg_joint.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>..\UserApp\protocol_usb\umsg_joint.h</FilePath>
-            </File>
-          </Files>
         </Group>
         <Group>
           <GroupName>::CMSIS</GroupName>

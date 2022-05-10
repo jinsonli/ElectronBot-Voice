@@ -818,11 +818,12 @@ ARM Macro Assembler    Page 13
               00000000 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
 erwork --depend=electronbot-fw\startup_stm32f405xx.d -oelectronbot-fw\startup_s
-tm32f405xx.o -I..\Core\Inc -IE:\Stm32Cubes\ElectronBot\ElectronBotVoice-fw\MDK-
-ARM\RTE -ID:\Keil_v5\ARM\PACK\ARM\CMSIS\4.2.0\CMSIS\Include -ID:\Keil_v5\ARM\PA
-CK\Keil\STM32F4xx_DFP\2.11.0 --predefine="__MICROLIB SETA 1" --predefine="__UVI
-SION_VERSION SETA 514" --predefine="_RTE_ SETA 1" --predefine="STM32F405xx SETA
- 1" --list=startup_stm32f405xx.lst startup_stm32f405xx.s
+tm32f405xx.o -I..\Core\Inc -IE:\DriveHome\4_Robotics\2_ElectronBot\ElectronBot-
+Voice\Software\ElectronBotVoice-fw\MDK-ARM\RTE -ID:\Keil_v5\ARM\PACK\ARM\CMSIS\
+4.2.0\CMSIS\Include -ID:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.11.0 --predefine
+="__MICROLIB SETA 1" --predefine="__UVISION_VERSION SETA 514" --predefine="_RTE
+_ SETA 1" --predefine="STM32F405xx SETA 1" --list=startup_stm32f405xx.lst start
+up_stm32f405xx.s
 
 
 

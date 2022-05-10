@@ -60,7 +60,9 @@
 "electronbot-fw\usbd_cdc.o"
 "electronbot-fw\usbd_cdc_if_1.o"
 "electronbot-fw\user_task.o"
+"electronbot-fw\screen.o"
 "electronbot-fw\audio.o"
+"electronbot-fw\servo.o"
 --library_type=microlib --strict --scatter "ElectronBot-fw\ElectronBot-fw.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
