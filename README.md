@@ -3,6 +3,7 @@
 > 这是ElectronBot桌面机器人的语音版
 > 
 > 原项目地址 https://github.com/peng-zhihui/ElectronBot
+> 关于语音版的讨论 https://github.com/peng-zhihui/ElectronBot/discussions/161
 
 > 【更新 2022-04-29】： 新的传感器板子昨晚肝出来了。 今天去打板。这回应该没啥问题。 拜托。 
 
